@@ -1,9 +1,8 @@
 def create_database(database_path: str):
-    #TODO: genetate the database
+    # TODO: generate the database
     pass
 
 
 def save_words_to_database(database_path: str, words_list: str):
-    #TODO: save the words to data base
+    # TODO: save the words to data base
     pass
-
